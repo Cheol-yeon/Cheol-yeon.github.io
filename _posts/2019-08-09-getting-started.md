@@ -1,7 +1,7 @@
 ---
 title: Getting Started
 author: cotes
-date: 2024-02-29 20:55:00 +0800
+date: 2024-02-29 12:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
