@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>CheolYeon</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-02-29T15:35:35+09:00</updated>
+  <updated>2024-02-29T15:38:05+09:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title>Getting Started</title>
     <link href="http://localhost:4000/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
-    <published>2024-02-29T13:55:00+09:00</published>
+    <published>2024-02-27T13:55:00+09:00</published>
   
-    <updated>2024-02-29T15:29:57+09:00</updated>
+    <updated>2024-02-29T15:35:58+09:00</updated>
   
     <id>http://localhost:4000/posts/getting-started/</id>
     <content src="http://localhost:4000/posts/getting-started/" />
