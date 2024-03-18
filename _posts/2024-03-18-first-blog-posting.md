@@ -1,7 +1,7 @@
 ---
 title: First Blog Posting
 author: cotes
-date: 2024-03-24 10:39:00 +0800
+date: 2024-03-24 10:39:00 +0000
 categories: [Blogging, Demo]
 tags: [typography]
 pin: true
